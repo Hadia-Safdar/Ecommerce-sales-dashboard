@@ -20,8 +20,8 @@ An interactive dashboard built using Power BI to analyze ecommerce sales data. I
 - **Excel / CSV Data Source**
 - Custom color theme and slicers for interactivity
   
-## ▶️ How to Use
-1. Download all files
+## How to Use
+1. Download the file
 2. Open `.pbix` file in Power BI Desktop
 3. Explore the visuals and filters
 
